@@ -1,0 +1,246 @@
+@font-face {
+  font-family: "Chandler Mountain";
+  src: url("ChandlerMountain-Black.eot");
+  src: url("ChandlerMountain-Black.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-Black.woff2") format("woff2"),
+    url("ChandlerMountain-Black.woff") format("woff"),
+    url("ChandlerMountain-Black.ttf") format("truetype"),
+    url("ChandlerMountain-Black.svg#ChandlerMountain-Black") format("svg");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain Slant";
+  src: url("ChandlerMountain-BoldSlanted.eot");
+  src: url("ChandlerMountain-BoldSlanted.eot?#iefix")
+      format("embedded-opentype"),
+    url("ChandlerMountain-BoldSlanted.woff2") format("woff2"),
+    url("ChandlerMountain-BoldSlanted.woff") format("woff"),
+    url("ChandlerMountain-BoldSlanted.ttf") format("truetype"),
+    url("ChandlerMountain-BoldSlanted.svg#ChandlerMountain-BoldSlanted")
+      format("svg");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain";
+  src: url("ChandlerMountain-Bold.eot");
+  src: url("ChandlerMountain-Bold.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-Bold.woff2") format("woff2"),
+    url("ChandlerMountain-Bold.woff") format("woff"),
+    url("ChandlerMountain-Bold.ttf") format("truetype"),
+    url("ChandlerMountain-Bold.svg#ChandlerMountain-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain ExtBd Slant";
+  src: url("ChandlerMountain-ExtBdSlant.eot");
+  src: url("ChandlerMountain-ExtBdSlant.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-ExtBdSlant.woff2") format("woff2"),
+    url("ChandlerMountain-ExtBdSlant.woff") format("woff"),
+    url("ChandlerMountain-ExtBdSlant.ttf") format("truetype"),
+    url("ChandlerMountain-ExtBdSlant.svg#ChandlerMountain-ExtBdSlant")
+      format("svg");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain Black Slant";
+  src: url("ChandlerMountain-BlackSlanted.eot");
+  src: url("ChandlerMountain-BlackSlanted.eot?#iefix")
+      format("embedded-opentype"),
+    url("ChandlerMountain-BlackSlanted.woff2") format("woff2"),
+    url("ChandlerMountain-BlackSlanted.woff") format("woff"),
+    url("ChandlerMountain-BlackSlanted.ttf") format("truetype"),
+    url("ChandlerMountain-BlackSlanted.svg#ChandlerMountain-BlackSlanted")
+      format("svg");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain ExtBd";
+  src: url("ChandlerMountain-ExtraBold.eot");
+  src: url("ChandlerMountain-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-ExtraBold.woff2") format("woff2"),
+    url("ChandlerMountain-ExtraBold.woff") format("woff"),
+    url("ChandlerMountain-ExtraBold.ttf") format("truetype"),
+    url("ChandlerMountain-ExtraBold.svg#ChandlerMountain-ExtraBold")
+      format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain ExtLt";
+  src: url("ChandlerMountain-ExtraLight.eot");
+  src: url("ChandlerMountain-ExtraLight.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-ExtraLight.woff2") format("woff2"),
+    url("ChandlerMountain-ExtraLight.woff") format("woff"),
+    url("ChandlerMountain-ExtraLight.ttf") format("truetype"),
+    url("ChandlerMountain-ExtraLight.svg#ChandlerMountain-ExtraLight")
+      format("svg");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain SemBd";
+  src: url("ChandlerMountain-SemiBold.eot");
+  src: url("ChandlerMountain-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-SemiBold.woff2") format("woff2"),
+    url("ChandlerMountain-SemiBold.woff") format("woff"),
+    url("ChandlerMountain-SemiBold.ttf") format("truetype"),
+    url("ChandlerMountain-SemiBold.svg#ChandlerMountain-SemiBold") format("svg");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain";
+  src: url("ChandlerMountain-Thin.eot");
+  src: url("ChandlerMountain-Thin.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-Thin.woff2") format("woff2"),
+    url("ChandlerMountain-Thin.woff") format("woff"),
+    url("ChandlerMountain-Thin.ttf") format("truetype"),
+    url("ChandlerMountain-Thin.svg#ChandlerMountain-Thin") format("svg");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain Light Slant";
+  src: url("ChandlerMountain-LightSlanted.eot");
+  src: url("ChandlerMountain-LightSlanted.eot?#iefix")
+      format("embedded-opentype"),
+    url("ChandlerMountain-LightSlanted.woff2") format("woff2"),
+    url("ChandlerMountain-LightSlanted.woff") format("woff"),
+    url("ChandlerMountain-LightSlanted.ttf") format("truetype"),
+    url("ChandlerMountain-LightSlanted.svg#ChandlerMountain-LightSlanted")
+      format("svg");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain";
+  src: url("ChandlerMountain-Regular.eot");
+  src: url("ChandlerMountain-Regular.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-Regular.woff2") format("woff2"),
+    url("ChandlerMountain-Regular.woff") format("woff"),
+    url("ChandlerMountain-Regular.ttf") format("truetype"),
+    url("ChandlerMountain-Regular.svg#ChandlerMountain-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain";
+  src: url("ChandlerMountain-Light.eot");
+  src: url("ChandlerMountain-Light.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-Light.woff2") format("woff2"),
+    url("ChandlerMountain-Light.woff") format("woff"),
+    url("ChandlerMountain-Light.ttf") format("truetype"),
+    url("ChandlerMountain-Light.svg#ChandlerMountain-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain Med";
+  src: url("ChandlerMountain-Medium.eot");
+  src: url("ChandlerMountain-Medium.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-Medium.woff2") format("woff2"),
+    url("ChandlerMountain-Medium.woff") format("woff"),
+    url("ChandlerMountain-Medium.ttf") format("truetype"),
+    url("ChandlerMountain-Medium.svg#ChandlerMountain-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain Thin Slant";
+  src: url("ChandlerMountain-ThinSlanted.eot");
+  src: url("ChandlerMountain-ThinSlanted.eot?#iefix")
+      format("embedded-opentype"),
+    url("ChandlerMountain-ThinSlanted.woff2") format("woff2"),
+    url("ChandlerMountain-ThinSlanted.woff") format("woff"),
+    url("ChandlerMountain-ThinSlanted.ttf") format("truetype"),
+    url("ChandlerMountain-ThinSlanted.svg#ChandlerMountain-ThinSlanted")
+      format("svg");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain SemBd Slant";
+  src: url("ChandlerMountain-SemBdSlant.eot");
+  src: url("ChandlerMountain-SemBdSlant.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-SemBdSlant.woff2") format("woff2"),
+    url("ChandlerMountain-SemBdSlant.woff") format("woff"),
+    url("ChandlerMountain-SemBdSlant.ttf") format("truetype"),
+    url("ChandlerMountain-SemBdSlant.svg#ChandlerMountain-SemBdSlant")
+      format("svg");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain Slant";
+  src: url("ChandlerMountain-Slanted.eot");
+  src: url("ChandlerMountain-Slanted.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-Slanted.woff2") format("woff2"),
+    url("ChandlerMountain-Slanted.woff") format("woff"),
+    url("ChandlerMountain-Slanted.ttf") format("truetype"),
+    url("ChandlerMountain-Slanted.svg#ChandlerMountain-Slanted") format("svg");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain Med Slant";
+  src: url("ChandlerMountain-MedSlant.eot");
+  src: url("ChandlerMountain-MedSlant.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-MedSlant.woff2") format("woff2"),
+    url("ChandlerMountain-MedSlant.woff") format("woff"),
+    url("ChandlerMountain-MedSlant.ttf") format("truetype"),
+    url("ChandlerMountain-MedSlant.svg#ChandlerMountain-MedSlant") format("svg");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chandler Mountain ExtLt Slant";
+  src: url("ChandlerMountain-ExtLtSlant.eot");
+  src: url("ChandlerMountain-ExtLtSlant.eot?#iefix") format("embedded-opentype"),
+    url("ChandlerMountain-ExtLtSlant.woff2") format("woff2"),
+    url("ChandlerMountain-ExtLtSlant.woff") format("woff"),
+    url("ChandlerMountain-ExtLtSlant.ttf") format("truetype"),
+    url("ChandlerMountain-ExtLtSlant.svg#ChandlerMountain-ExtLtSlant")
+      format("svg");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
